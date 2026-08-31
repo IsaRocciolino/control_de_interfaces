@@ -23,6 +23,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - Investigacion del puente H Y PWM
 - Analizar y realizar el diseño de la estructura del robot
 - ensamblado del kit
+- Empezar a realizar el firmware
 
 ### Actividades realizadas:
 -
