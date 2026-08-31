@@ -2,22 +2,23 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
-## Equipo: _______________________________
-## Nombre del Robot: ______________________
-## Capitán: _______________________________
-## Subcapitán: ____________________________
+## Equipo:MECO
+## Nombre del Robot:J.A.R.V.I.S
+## Capitán:Rocciolino, Isabella
+## Subcapitán:Pereyra, Paulina
 ## Integrantes:
--
--
--
+- Saavedra, Rio
+- Traverso, Lucas
+- Rojas, Zahira
 
 ## REGISTRO DE ACTIVIDADES
 ### Fecha: 
 ### Integrantes presentes:
--
--
--
-
+- Pereyra, Paulina
+- Rocciolino, Isabella
+- Rojas, Zahira
+- Saavedra, Rio
+- Traverso, Lucas
 ### Objetivos de la jornada:
 -
 -
