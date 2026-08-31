@@ -58,22 +58,27 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 -
 
 ### APORTES INDIVIDUALES
-Integrante: ____________________________
+Intregrante: Isabella Rocciolino
 
-Tarea realizada:
+Tarea realizada: Realización de la bitacora y las ramas 
 
-Integrante: ____________________________
+Integrante: Paulina Pereyra
 
-Tarea realizada:
+Tarea realizada: Investigación para diseñar el chasis
 
-Integrante: ____________________________
+Integrante: Zahira Rojas
 
-Tarea realizada:
+Tarea realizada: Investigacion sobre el puente H y PWM
 
-Integrante: ____________________________
+Integrante: Rio Saavedra
 
-Tarea realizada:
+Tarea realizada: inestigacion sobre el firmware del robot
 
-Integrante: ____________________________
+Integrante: Lucas Traverso
 
-Tarea realizada:
+Tarea realizada: Diseño y planificación del chasis
+
+
+Integrante: Zahira Rojas
+
+Tarea realizada: investigacion sobre el puente H, PWM y los pinout del raspberry
