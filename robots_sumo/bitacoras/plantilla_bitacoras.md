@@ -26,17 +26,17 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - Empezar a realizar el firmware
 
 ### Actividades realizadas:
--
--
--
-
+- Diseño de la estructura
+- Investigación del Puente H y PWM
+- Ensamblado del kit
+- 
 ### Problemas encontrados:
--
+- La parte trasera de la base es inestable
 -
 -
 
 ### Soluciones implementadas o propuestas:
--
+- 
 -
 -
 
