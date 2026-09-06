@@ -29,6 +29,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - Diseño de la estructura
 - Investigación del Puente H y PWM
 - Ensamblado del kit
+- Creación del prototipo de Tinkercad
 - 
 ### Problemas encontrados:
 - La parte trasera de la base es inestable
@@ -60,7 +61,8 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ### APORTES INDIVIDUALES
 Intregrante: Isabella Rocciolino
 
-Tarea realizada: Realización de la bitacora y las ramas 
+Tarea realizada: Realización de la bitacora y las ramas.Tinker cad
+
 
 Integrante: Paulina Pereyra
 
