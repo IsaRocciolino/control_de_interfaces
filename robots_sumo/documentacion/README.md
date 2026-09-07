@@ -29,3 +29,8 @@ Pines de alimentación:
 - GND: 8 pines de tierra distribuidos por la placa
 
 Pines Analógicos:
+- Incluye canales ADC ()<conversor analógico digital) para leer sensores  de voltaje.
+- ADC_VREF (pin 35): Voltaje de referencia para el ADC
+- AGND (pin 33): Tierra analógica para mediciones precisas.
+
+  Pines internos Inalámbricos y LED: El LED de usuario y las funciones de Wi-Fi/Bluetooth están conectados a pines internos especificos del chip inalámbrico.
