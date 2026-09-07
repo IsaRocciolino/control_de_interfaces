@@ -12,7 +12,7 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 - Rojas, Zahira
 
 ## REGISTRO DE ACTIVIDADES
-### Fecha: 
+### Fecha: 31/08
 ### Integrantes presentes:
 - Pereyra, Paulina
 - Rocciolino, Isabella
@@ -85,3 +85,41 @@ Tarea realizada: Diseño y planificación del chasis
 Integrante: Zahira Rojas
 
 Tarea realizada: investigacion sobre el puente H, PWM y los pinout del raspberry
+
+
+  # REGISTRO DE ACTIVIDADES
+  ### Fecha: 07/09/26
+### Integrantes presentes: 
+- Rio Saavedra
+- Lucas Traverso
+- Pereyra Paulina
+- Rocciolino Isabella
+- Rojas Zahira
+
+  ### OBJETIVOS DE LA JORNADA
+  - Programación del PWM para los movimientos. Hacer el diagrama esquemático.
+ 
+  ### Actividades realizadas:
+  - Rio Saavedra: Prgramación para los movimientos básicos
+  - Rojas Zahira: Programación del PWM.
+  - Lucas Traverso: Diagrama Esquemático
+  - Isabella Rocciolino: 
+  - Pereyra Paulina: 
+ 
+    ### Problemas encontrados:
+
+    ### Soluciones implementadas o propuestas:
+
+    ### Pruebas realizadas:
+
+    ### Resultados obtenidos:
+
+
+
+### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
+
+### Tareas pendientes:
+
+
+### APORTES INDIVIDUALES
+
