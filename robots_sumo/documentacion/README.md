@@ -20,3 +20,12 @@ La modificación del ancho de los impulsos permite regular de forma eficiente el
 
 Pin Outs Raspberry Pi Pico: 
 Distribución general de los pinesPines GPIO (26): Sirven para conectar sensores, motores, luces LED y otros componentes. Cada pin se puede programar para cumplir varias funciones.Pines de Alimentación y Tierra (GND): Suministran energía (como VBUS de 5V por USB o 3V3 regulados) y cierran los circuitos eléctricos.Pines de Control del Sistema: Incluyen el pin AGND (tierra analógica), VREF (referencia analógica) y pines para depuración (SWD).
+
+Pines GPIO (Entrada/salida): 26 pines digitales multifunción (nivel lógico de 3.3v). Muchos pueden configurarse como PWM, I2C, SPI o UART. 
+Pines de alimentación: 
+- VBUS (pin 40): Entrada de 5v (desde puerto USB)
+- VSYS (pin 39): Entrada pincipal del sistema (1.8v a 5.5v) para alimentar la placa.
+- 3V3_EN (pin 37): Permite apagar los 3.3v si se lleva a tierra (GND).
+- GND: 8 pines de tierra distribuidos por la placa
+
+Pines Analógicos:
