@@ -100,11 +100,11 @@ Tarea realizada: investigacion sobre el puente H, PWM y los pinout del raspberry
   - Programación del PWM para los movimientos. Hacer el diagrama esquemático.
  
   ### Actividades realizadas:
-  - Rio Saavedra: Prgramación para los movimientos básicos
-  - Rojas Zahira: Programación del PWM.
-  - Lucas Traverso: Diagrama Esquemático
-  - Isabella Rocciolino: 
-  - Pereyra Paulina: 
+  - Rio Saavedra: Programación para los movimientos básicos
+  - Rojas Zahira: Ayudar a la conexión en el diagrama esquemático. 
+  - Lucas Traverso y Isabella Rocciolino: Diagrama Esquemático
+  - Pereyra Paulina: cómo alimentar la raspberry y ayuda a la programación
+  
  
     ### Problemas encontrados:
 
