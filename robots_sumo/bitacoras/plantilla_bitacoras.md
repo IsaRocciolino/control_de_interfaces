@@ -61,7 +61,8 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 ### APORTES INDIVIDUALES
 Intregrante: Isabella Rocciolino
 
-Tarea realizada: Realización de la bitacora y las ramas.Tinker cad
+Tarea realizada: Realización de la bitacora y las ramas. prototipo 
+Tinker cad
 
 
 Integrante: Paulina Pereyra
