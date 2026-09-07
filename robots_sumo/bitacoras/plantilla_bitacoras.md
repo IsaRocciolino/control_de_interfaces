@@ -101,8 +101,8 @@ Tarea realizada: investigacion sobre el puente H, PWM y los pinout del raspberry
  
   ### Actividades realizadas:
   - Rio Saavedra: Programación para los movimientos básicos
-  - Rojas Zahira: Ayudar a la conexión en el diagrama esquemático. 
-  - Lucas Traverso y Isabella Rocciolino: Diagrama Esquemático
+  - Rojas Zahira: Diagrama esquemático. 
+  - Lucas Traverso y Isabella Rocciolino: Actualizar el modelo de TinkerCad
   - Pereyra Paulina: cómo alimentar la raspberry y ayuda a la programación
   
  
