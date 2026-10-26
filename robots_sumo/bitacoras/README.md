@@ -120,3 +120,50 @@ Tarea realizada: investigacion sobre el puente H, PWM y los pinout del raspberry
 
 
 ### APORTES INDIVIDUALES
+
+
+## Registro de actividades
+### Fecha: 26/10
+### Integrantes presentes:
+- Pereyra, Paulina
+- Rocciolino, Isabella
+- Rojas, Zahira
+- Saavedra, Rio
+- Traverso, Lucas
+### Objetivos de la jornada:
+- Conexión para prueba de los motores
+- Programación de los movimientos
+- Conexión Puente h con raspberry
+
+### Actividades realizadas:
+-Diseño del programa
+- Conectar Puente H con raspberry
+### Problemas encontrados:
+-
+-
+-
+
+### Soluciones implementadas o propuestas:
+- 
+-
+-
+
+### Pruebas realizadas:
+-
+-
+-
+
+### Resultados obtenidos:
+-
+-
+-
+
+### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
+
+### Tareas pendientes:
+-
+-
+-
+
+### APORTES INDIVIDUALES
+
