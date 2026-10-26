@@ -2,124 +2,64 @@ NOTA: A medida que se realizan las bitácoras deberán ser subidas al repo corre
 
 # BITÁCORA DE PROYECTO – ROBOT SUMO
 
-## Equipo:MECO
-## Nombre del Robot:J.A.R.V.I.S
-## Capitán:Rocciolino, Isabella
-## Subcapitán:Pereyra, Paulina
+## Equipo: 
+## Nombre del Robot: 
+## Capitán: 
+## Subcapitán: 
 ## Integrantes:
-- Saavedra, Rio
-- Traverso, Lucas
-- Rojas, Zahira
+
 
 ## REGISTRO DE ACTIVIDADES
-### Fecha: 31/08
+### Fecha: 
 ### Integrantes presentes:
-- Pereyra, Paulina
-- Rocciolino, Isabella
-- Rojas, Zahira
-- Saavedra, Rio
-- Traverso, Lucas
+-
+-
+-
 ### Objetivos de la jornada:
-- Investigacion del puente H Y PWM
-- Analizar y realizar el diseño de la estructura del robot
-- ensamblado del kit
-- Empezar a realizar el firmware
-
+-
+-
+-
 ### Actividades realizadas:
-- Diseño de la estructura
-- Investigación del Puente H y PWM
-- Ensamblado del kit
-- Creación del prototipo de Tinkercad
-- 
+-
+-
+-
+
 ### Problemas encontrados:
-- La parte trasera de la base es inestable
 -
 -
 
 ### Soluciones implementadas o propuestas:
-- 
--
 -
 
 ### Pruebas realizadas:
 -
--
--
 
 ### Resultados obtenidos:
 -
--
--
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
 
 ### Tareas pendientes:
 -
--
--
 
 ### APORTES INDIVIDUALES
-Intregrante: Isabella Rocciolino
+Integrante: 
 
-Tarea realizada: Realización de la bitacora y las ramas. prototipo 
-Tinker cad
+Tarea realizada: 
 
+Integrante:
 
-Integrante: Paulina Pereyra
+Tarea realizada: 
 
-Tarea realizada: Investigación para diseñar el chasis
+Integrante: 
 
-Integrante: Zahira Rojas
+Tarea realizada: 
 
-Tarea realizada: Investigacion sobre el puente H y PWM
+Integrante:
 
-Integrante: Rio Saavedra
-
-Tarea realizada: inestigacion sobre el firmware del robot
-
-Integrante: Lucas Traverso
-
-Tarea realizada: Diseño y planificación del chasis
+Tarea realizada:
 
 
-Integrante: Zahira Rojas
+Integrante: 
 
-Tarea realizada: investigacion sobre el puente H, PWM y los pinout del raspberry
-
-
-  # REGISTRO DE ACTIVIDADES
-  ### Fecha: 07/09/26
-### Integrantes presentes: 
-- Rio Saavedra
-- Lucas Traverso
-- Pereyra Paulina
-- Rocciolino Isabella
-- Rojas Zahira
-
-  ### OBJETIVOS DE LA JORNADA
-  - Programación del PWM para los movimientos. Hacer el diagrama esquemático.
- 
-  ### Actividades realizadas:
-  - Rio Saavedra: Programación para los movimientos básicos
-  - Rojas Zahira: Diagrama esquemático. 
-  - Lucas Traverso y Isabella Rocciolino: Actualizar el modelo de TinkerCad
-  - Pereyra Paulina: cómo alimentar la raspberry y ayuda a la programación
-  
- 
-    ### Problemas encontrados:
-
-    ### Soluciones implementadas o propuestas:
-
-    ### Pruebas realizadas:
-
-    ### Resultados obtenidos:
-
-
-
-### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
-
-### Tareas pendientes:
-
-
-### APORTES INDIVIDUALES
 
