@@ -123,7 +123,7 @@ Tarea realizada: investigacion sobre el puente H, PWM y los pinout del raspberry
 
 
 ## Registro de actividades
-### Fecha: 26/10
+### Fecha: 26/10 (Trabajo fuera de horario de la materia)
 ### Integrantes presentes:
 - Pereyra, Paulina
 - Rocciolino, Isabella
@@ -142,28 +142,37 @@ Tarea realizada: investigacion sobre el puente H, PWM y los pinout del raspberry
 -
 -
 -
+### Fecha:04/11
+### Integrantes presentes: 
+- Pereyra Paulina
+- Rojas Zahira
+- Saavedra Río
+- Traverso Lucas
 
-### Soluciones implementadas o propuestas:
+  ### Objetivos de la jornada:
+  - Terminar el código y probarlo
+  - Armar la estructura
+  - Terminar la conexión entre Puente H con Raspberry y motores
+ 
+  ### Actividades Realizadas:
+  - Diseño de la estructura en fisico
+  - Programa probado
+  - Se terminó la conexión
+ 
 - 
--
--
+    ### Problemas encontrados:-
 
-### Pruebas realizadas:
--
--
--
+    ### Soluciones implementadas o propuestas:-
 
-### Resultados obtenidos:
--
--
--
+    ### Pruebas realizadas:Prueba del programa
 
-### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
+    ### Resultados obtenidos:Funcionamiento del robot.
+  ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
 
-### Tareas pendientes:
--
--
--
+### Tareas pendientes: Soldar el aluminio de la estructura
+
 
 ### APORTES INDIVIDUALES
-
+- Traverso Lucas y Rio Saavedra: Terminar la programación.
+- Paulina Pereyra: Conexión de los componentes.
+- Zahira Rojas: Armado de la estructura. 
