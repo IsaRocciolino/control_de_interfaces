@@ -35,4 +35,6 @@ Pines Analógicos:
 
   Pines internos Inalámbricos y LED: El LED de usuario y las funciones de Wi-Fi/Bluetooth están conectados a pines internos especificos del chip inalámbrico.
 
+
+###Imagen del circuito armado en TinkerCad
 <img width="1115" height="895" alt="image" src="https://github.com/user-attachments/assets/02c852dd-02d1-437c-b812-ad09c6b770e5" />
