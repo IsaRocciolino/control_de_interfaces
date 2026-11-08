@@ -34,3 +34,5 @@ Pines Analógicos:
 - AGND (pin 33): Tierra analógica para mediciones precisas.
 
   Pines internos Inalámbricos y LED: El LED de usuario y las funciones de Wi-Fi/Bluetooth están conectados a pines internos especificos del chip inalámbrico.
+
+  https://docs.google.com/document/d/1IbzUNHxvdo8d3agPpw_OWTJ4RGd0uqQhqjufxS7rbCI/edit?usp=sharing
