@@ -19,4 +19,6 @@ Un PWM funciona como un interruptor, que constantemente se activa y desactiva, r
 Si un motor es alimentado con 12 voltios, recibe todo el tiempo la corriente que este pide y entrega la máxima potencia, si es alimentado con 0 voltios, no recibe corriente y no obtiene potencia.
 
 En un sistema PWM el motor recibe corriente por un tiempo y deja de recibirlo por otro, repitiéndose este proceso continuamente. Si se aumenta el tiempo en que el pulso está en nivel alto (12 V en nuestro ejemplo), se entrega más potencia y si se reduce el tiempo entrega menos potencia.
-<img width="398" height="484" alt="image" src="https://github.com/user-attachments/assets/5b6378b8-8ad
+
+<img width="398" height="484" alt="image" src="https://github.com/user-attachments/assets/e1e62769-cac7-4ed6-9755-795d5899fa92" />
+
