@@ -50,6 +50,9 @@
 -
 
 ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
+<img width="4284" height="5712" alt="IMG_4384" src="https://github.com/user-attachments/assets/ec54f1e0-4379-47aa-b354-88e6b37bf9e2" />
+<img width="1100" height="1600" alt="613747ff-f141-4c98-aa61-2d577c815bac" src="https://github.com/user-attachments/assets/f5413dcd-4144-4d7e-a838-139a8d6ee93e" />
+
 
 ### Tareas pendientes:
 -
@@ -168,6 +171,8 @@ Tarea realizada: investigacion sobre el puente H, PWM y los pinout del raspberry
 
     ### Resultados obtenidos:Funcionamiento del robot.
   ### Fotografías, diagramas o evidencias: (Adjuntar imágenes, capturas de pantalla o esquemas)
+<img width="1200" height="1600" alt="dd77b181-f45a-44d4-bc5d-1ed6b314a74b" src="https://github.com/user-attachments/assets/37bca935-abf7-4549-9d9d-3baebefd2d62" />
+<img width="1498" height="1600" alt="b2006f74-2e8a-46b8-a4d7-d83d224e17bb" src="https://github.com/user-attachments/assets/7ac73159-8530-47eb-971e-613d78baf5f6" />
 
 ### Tareas pendientes: Soldar el aluminio de la estructura
 
